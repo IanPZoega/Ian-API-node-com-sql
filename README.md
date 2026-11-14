@@ -1,7 +1,7 @@
 # API Node com MySQL
 
-Aluno: SEU NOME
-Turma: SUA TURMA
+Aluno: Ian
+Turma: 3º DSN
 
 Trabalho prático de PW3. É uma API REST feita com Node.js, Express e MySQL (mysql2, sem ORM) com CRUD de usuários.
 
